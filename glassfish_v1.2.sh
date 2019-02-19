@@ -1,6 +1,7 @@
 #Author: Alcolawl
 #Settings By: SoniCron
-#Device: Nexus 5X (Bullhead)
+#Device: Nexus 5X (Bullhead)-original
+#Ported Device: Mi Max
 #Codename: GlassFish
 #Build Status: Stable
 #Version: 1.2
